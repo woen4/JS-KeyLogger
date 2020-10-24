@@ -1,0 +1,17 @@
+{
+    "name": "skipper",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "bin": "./src/Listener.js",
+    "pkg": {
+        "assets": [
+            "./log.txt"
+        ]
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "iohook": "^0.6.6",
+        "mongoose": "^5.10.10"
+    }
+}
