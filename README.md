@@ -13,4 +13,6 @@ na raiz do projeto.
 
 ESTE PROJETO DE FINS MERAMENTE DIDÁTICOS, NÃO USE-O DE MÁ FÉ
 
-Autor: <a href="https://github.com/Woen8">Woen8</a>
+## Autores
+
+* **Kaio Woen** - *Trabalho inicial* - [Woen8](https://github.com/Woen8)
